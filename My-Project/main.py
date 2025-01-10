@@ -33,10 +33,11 @@
 
 #Using Init class
 
-from my_calculater import add,substract
+# from my_calculater import add,substract
 
-result_1 = add(1,5)
-result_2 = substract(16,4)
+# result_1 = add(1,5)
+# result_2 = substract(16,4)
 
-print(result_1,result_2)
+# print(result_1,result_2)
+
 
